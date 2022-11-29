@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>Soy el index</h1>
-    <h1>Linea desde github remoto</h1>    
+    <h1>Linea desde github remoto</h1>
+    <h2>Esta modificacion es desde el VisualStudio Code de manera local</h2>    
 </body>
 </html>
